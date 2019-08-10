@@ -6,23 +6,23 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <p>
-          Losts project
-        </p>
-        <img src={logo} className="App-logo" alt="logo" />
+
+        
+        
+        
+        
+        
+          
+          <h1 class="Title">Losts</h1>
+  <div class="Input">
+    <input type="text" id="input" class="Input-text" placeholder="Procure o que perdeu?"></input>
+    {/* <label for="input" class="Input-label">Digite o que procura</label> */}
+  </div>
+          
         
         <p>
-          Encontre o que perdeu, ache quem perdeu...
-          </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          
-        </a>
         <a target="_blank"  href="https://github.com/rodrigolinsbr/losts">https://github.com/rodrigolinsbr/losts</a>
+        </p>
       </header>
     </div>
   );
