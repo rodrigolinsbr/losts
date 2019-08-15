@@ -13,7 +13,7 @@ function App() {
         
         
           
-          <h1 class="Title">Losts</h1>
+          <h1 class="Title">Losts(perdidos)</h1>
   <div class="Input">
     <input type="text" id="input" class="Input-text" placeholder="O que você perdeu?"></input>
     {/* <label for="input" class="Input-label">Digite o que procura</label> */}
